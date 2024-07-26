@@ -9,7 +9,7 @@ Chat Bot is an innovative project designed to leverage the Gemini API and LangCh
 
 ## LinkedIn Post
 
-For more information and updates, check out our LinkedIn post: [Chat Bot LinkedIn Post](https://www.linkedin.com/posts/suraj-kumar-362360289_ai-chatbot-innovation-activity-7222146013833093120-dEX3?utm_source=share&utm_medium=member_desktop)
+For more information and updates, check out our LinkedIn post: [Chat Bot LinkedIn Post][(https://www.linkedin.com/posts/suraj-kumar-362360289_ai-chatbot-innovation-activity-7222146013833093120-dEX3?utm_source=share&utm_medium=member_desktop)](https://www.linkedin.com/posts/madhav-gupta-125b6b31b_generativeai-innovation-aichatbot-activity-7222528504813228033-0VbH?utm_source=share&utm_medium=member_desktop)
 
 ## Installation
 
